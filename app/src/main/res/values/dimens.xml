@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textL">16sp</dimen>
+    <dimen name="textM">12sp</dimen>
+    <dimen name="s_pad">4dp</dimen>
+    <dimen name="m_pad">8dp</dimen>
+    <dimen name="im_height">90dp</dimen>
+    <dimen name="im_width">115dp</dimen>
+</resources>

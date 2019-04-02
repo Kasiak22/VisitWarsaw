@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">VisitWarsaw</string>
+
+    <!-- list_item-->
+    <string name="ex1">name</string>
+    <string name="ex2">descript</string>
+
+    <!--MustSee strings-->
+    <string name="n_1">Royal Castle</string>
+    <string name="d_1">Rebuilt after the war. Apart from the royal apartments, the old seat of Polish rulers also houses an art collection with paintings by Rembrandt and Bernardo Bellotto</string>
+    <string name="u_1">http://www.zamek-krolewski.pl</string>
+    <string name="n_2">The Royal Łazienki</string>
+    <string name="d_2">The vast park surrounding the summer residence of the last Polish king, Stanisław August Poniatowski, is where Varsovians like to go for longer walks.</string>
+    <string name="u_2">https://www.lazienki-krolewskie.pl/en</string>
+    <string name="n_3">The Palace of Culture</string>
+    <string name="d_3">The highest Polish monument, the living Museum of Socialist Realism</string>
+    <string name="u_3">http://www.pkin.pl/eng</string>
+    <string name="n_4">The Palace at Wilanow</string>
+    <string name="d_4">A summer residence of Jan Sobieski.Wilanów Palace is a true pearl of Baroque architecture in Warsaw.</string>
+    <string name="u_4">http://www.wilanow-palac.pl/</string>
+    <string name="n_5">Warsaw Old Town</string>
+    <string name="d_5">A UNESCO world heritage site, the Old Town was established in the 13th century.</string>
+    <string name="u_5">http://www.destinationwarsaw.com/site.php5/Show/117/Title/old-town.html</string>
+    <string name="n_6">Uprising Museum</string>
+    <string name="d_6">The Warsaw Rising Museum was opened on the 60th anniversary of the outbreak of fighting in Warsaw.</string>
+    <string name="u_6">https://www.1944.pl/en</string>
+
+
+    <!--Museum strings-->
+    <string name="nm_1">Chopin Museum</string>
+    <string name="dm_1">Museum dedicated to great polish composer and pianist.The purpose of the Museum is to transfer knowledge and high quality artistic experience.</string>
+    <string name="um_1">http://chopin.museum/en</string>
+    <string name="nm_2">National Museum</string>
+    <string name="dm_2">The National Museum houses a wonderful collection of well over 830,000 objects from all epochs</string>
+    <string name="um_2">http://www.mnw.art.pl/en/</string>
+    <string name="nm_3">Museum of the Polish Jews</string>
+    <string name="dm_3">The highest Polish monument, the living Museum of Socialist Realism</string>
+    <string name="um_3">http://www.pkin.pl/eng</string>
+    <string name="nm_4">The Museum of Warsaw</string>
+    <string name="dm_4">a museum that collects and presents collections related to the history of Warsaw. The museum\'s headquarters is located in eleven interconnected Old Town tenement houses</string>
+    <string name="um_4">http://muzeumwarszawy.pl/</string>
+    <string name="nm_5">Photoplasticon</string>
+    <string name="dm_5">For some, a meeting place, for others a window to the world, for yet another silent witness to the history of the capital and an original place with the atmosphere of pre-war Warsaw.</string>
+    <string name="um_5">http://fotoplastikonwarszawski.pl/</string>
+    <string name="nm_6">The Neon Museum</string>
+    <string name="dm_6">Poland\'s first Neon Museum dedicated to the documentation and preservation of Poland\'s cold war era neon signs</string>
+    <string name="um_6">http://neonmuzeum.org/</string>
+
+
+    <!--Leisure strings-->
+    <string name="nl_1">Vistulan Boulevards</string>
+    <string name="dl_1">A great place for a walk or a bike trip. Lookout, cafes and bars, pergolas casting shadow, sails in the shape of sails, mini-beach and trampolines</string>
+    <string name="ul_1">https://warsawtour.pl/project/bulwary-nad-wisla/</string>
+    <string name="nl_2">Warsaw Beach</string>
+    <string name="dl_2">There are few places by Vistula River where you can take some rest</string>
+    <string name="ul_2">http://warszawa.wyborcza.pl/warszawa/1,34862,18331997,gdzie-plazowac-w-warszawie-piaszczyste-plaze-nie-tylko-nad.html</string>
+    <string name="nl_3">The Harenda Club</string>
+    <string name="dl_3">Harenda started her activity in the \'90s and is the oldest club in Warsaw. It is a place where there is always a calm and positive atmosphere.</string>
+    <string name="ul_3">https://www.facebook.com/KlubHarenda/</string>
+    <string name="nl_4">Mazowiecka Street</string>
+    <string name="dl_4">It\'s a place that attracts with its party character. The neighborhood of Nowy Świat and Kredytowa streets offers interesting opportunities for clubbing.</string>
+    <string name="ul_4">http://www.pkin.pl/eng</string>
+    <string name="nl_5">Night Market</string>
+    <string name="dl_5">If you like non-obvious places, Night Market is for you. The Old Main Railway Station in Warsaw has gained a new life thanks to the meetings of food lovers organized in summer Saturdays and Sundays</string>
+    <string name="ul_5">http://www.wilanow-palac.pl/</string>
+    <string name="nl_6">Arkadia</string>
+    <string name="dl_6">The biggest shopping center in Poland</string>
+    <string name="ul_6">https://www.arkadia.com.pl/</string>
+
+
+    <!--Extra strings-->
+    <string name="ne_1">Praga\'s wayside shrines</string>
+    <string name="de_1">Themes uprising shrines in most cases are similar - thanks for saving during the war, for the salvation of the disease, in remembrance or acknowledgment</string>
+    <string name="ue_1">https://napradze.waw.pl/praskie-kapliczki/mapa-praskich-kapliczek/</string>
+    <string name="ne_2">Mokotow Field</string>
+    <string name="de_2">Located between Warsaw\'s Mokotów district and the city center, the park is one of the largest in Warsaw</string>
+    <string name="ue_2">http://www.polamokotowskie.pl/</string>
+    <string name="ne_3">Warsaw Zoo</string>
+    <string name="de_3">The Municipal Zoological Garden in Warsaw is a great green island in the middle of the city, a magical place full of interesting adventures.</string>
+    <string name="ue_3">https://zoo.waw.pl/</string>
+    <string name="ne_4">Savior Square</string>
+    <string name="de_4">The square was originally designed by 18th-century royal gardener Johann Christian Schuch as part of the royal gardens. Now it\'s popular point of meetings</string>
+    <string name="ue_4">https://en.wikipedia.org/wiki/Savior_Square</string>
+    <string name="ne_5">Copernicus Science Centre</string>
+    <string name="de_5">The science museum standing on the bank of the Vistula River in Warsaw, Poland. It contains over 450 interactive exhibits.</string>
+    <string name="ue_5">http://www.kopernik.org.pl/</string>
+    <string name="ne_6">Hala Gwardii</string>
+    <string name="de_6">The hall is a unique combination of interesting art, a traditional market with good quality food and regional products, restaurants and food stores.</string>
+    <string name="ue_6">https://halagwardii.pl</string>
+
+
+
+
+</resources>
